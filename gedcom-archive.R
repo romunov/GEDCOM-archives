@@ -1,7 +1,7 @@
 # Toy project for downloading genealogy archives from genealogyforum.com
 # TODO: test sapply to run in parallel
 
-# Ljubjana, 26.1.2012
+# Ljubljana, 26.1.2012
 # Roman Luštrik (romunov@gmail.com)
 
 library(XML)
